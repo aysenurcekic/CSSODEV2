@@ -1,0 +1,51 @@
+
+
+.searchbar-container {
+
+
+    background-color:white
+    
+}
+
+.links-container{
+    display: grid;
+    grid-template-columns: 3fr 2fr 4fr;
+    padding: 20;
+    float: right;
+    
+    
+}
+.div1{
+    background-color: #a1eee6;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: auto;
+    float: left;
+    
+    
+    
+}
+.div2{
+    background-color: #9ff0e6;
+   width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: auto;
+    
+    
+    
+
+    
+}
+.div3{
+    background-color: #8be7dc;
+    width: 250px;
+    height: 100px;
+    margin: 10px;
+    padding: auto;
+    float: left;
+    
+    
+    
+}
